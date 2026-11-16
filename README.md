@@ -53,3 +53,14 @@ The original password-strength research report is included at [`docs/Password_St
 ## Disclaimer
 
 For educational use only. Do not enter real, reused, or personal passwords.
+
+## Demo Screenshots
+
+### Password analysis: moderate result
+![Moderate password](screenshots/pass1.png)
+
+### Password analysis: strong result with pattern warnings
+![Strong password](screenshots/pass2.png)
+
+### MD5 (insecure) vs bcrypt (secure)
+![Hashing demo](screenshots/pass3.png)
